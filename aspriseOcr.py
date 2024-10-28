@@ -92,7 +92,7 @@ def getReceiptDetails(image):
 
 if __name__ == "__main__":
 
-    file_path = 'C:/Users/wiwich/Desktop/playground/receipt-ocr/'
+    file_path = 'C:<path>/receipt-ocr/'
     # input image
     image = file_path+"receipt-01.jpg"
 
